@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maan731
 - 👀 I’m interested in Development Operations
-- 🌱 I’m currently learning Azure, AWS and DevOps
+- 🌱 Practices Azure, AWS and DevOps
 - 💞️ I’m looking to collaborate on DevOps and Cloud
 - 📫 How to reach me ... via email: sreemanoj7@gmail.com
 - 😄 Pronouns: ... 
